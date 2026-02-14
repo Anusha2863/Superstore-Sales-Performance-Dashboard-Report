@@ -60,8 +60,7 @@ Helps identify seasonality and performance fluctuations.
 ## 📂 Dataset
 
 You can access the dataset here:
-
-🔗 [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+- <a heref:"https://github.com/Anusha2863/Superstore-Sales-Performance-Dashboard-Report/blob/main/Superstore_Sample_Dataset.xlsx">Dataset</a>
 
 ## 📷 Dashboard Preview
 

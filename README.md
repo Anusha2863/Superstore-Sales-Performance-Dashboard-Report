@@ -28,7 +28,7 @@ It includes:
 - Shipping Mode  
 
 🔗 Dataset Link:  
-https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+-- <a href ="https://github.com/Anusha2863/Superstore-Sales-Performance-Dashboard-Report/blob/main/Superstore_Sample_Dataset.xlsx"> Dataset</a>
 
 ## 💠 Tools Used
 
